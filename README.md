@@ -1,9 +1,9 @@
-# `Tools I've used along the way.`
+# Tools I've used along the way.
 Tools I've come across, what I know about them, and how I've found them useful.
 
 
 ## Mac OSX Apps
-  - **Check** - Offline Dev Set up [Gist](https://gist.github.com/alexortiz201/c846fd5736721736d102)
+  - _Check Offline Dev Set up [Gist](https://gist.github.com/alexortiz201/c846fd5736721736d102)_
   - **Dash** - Offline Docs
   - **Pocket** - Offline Article Storing
   - **Sublime Text 3** - Editor
@@ -21,4 +21,3 @@ Tools I've come across, what I know about them, and how I've found them useful.
   - **youtube-dl** - youtube video/mp3 ripping
   - **json-server** - mock rest apis
   
-##
