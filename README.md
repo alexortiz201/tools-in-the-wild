@@ -1,4 +1,4 @@
-# Tools I've used along the way.
+# Tools/Set Ups I've used along the way.
 Tools I've come across, what I know about them, and how I've found them useful.
 
 
@@ -25,3 +25,5 @@ Tools I've come across, what I know about them, and how I've found them useful.
   - **youtube-dl** - youtube video/mp3 ripping
   - **json-server** - mock rest apis
   
+## Resources
+[Mac Set Up Walkthrough](http://sourabhbajaj.com/mac-setup/index.html)
