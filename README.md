@@ -7,7 +7,9 @@ Tools I've come across, what I know about them, and how I've found them useful.
   - **Dash** - Offline Docs
   - **Pocket** - Offline Article Storing
   - **Sublime Text 3** - Editor
+    `Extension:`
     - Package Manager
+    - [Material theme](https://github.com/equinusocio/material-theme) 
     
 ## Online Sign Ups
   - **Egghead.io** - video tutorials
