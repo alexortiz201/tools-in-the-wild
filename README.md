@@ -10,7 +10,9 @@ Tools I've come across, what I know about them, and how I've found them useful.
     `Extension:`
     - Package Manager
     - [Material theme](https://github.com/equinusocio/material-theme) 
-    
+    - DocBlockr
+    - BracketHighlighter
+
 ## Online Sign Ups
   - **Egghead.io** - video tutorials
   
